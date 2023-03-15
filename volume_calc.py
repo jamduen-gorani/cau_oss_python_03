@@ -4,4 +4,4 @@ height = float(input("높이:"))
 
 volume = width * length * height
 
-print("박스의 부피는", str(volume)+"입니다")
+print("박스의 부피는", str(volume) + "입니다")
